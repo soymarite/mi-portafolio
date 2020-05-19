@@ -6,3 +6,28 @@ font-family: 'Cabin', sans-serif;
 .marite {
 background-color: #ff5757;
 }
+
+i {
+color: #ff5757;
+}
+
+footer i {
+  color: #000000;
+}
+
+hr {
+border: 5px solid #5ce1e6;
+}
+
+.navbar-brand {
+max-width: 20%;}
+
+.logo {
+height: 250px;
+weight:250px;}
+
+.container {
+border: 1px solid red;}
+
+.row {
+border: 1px solid green;}
